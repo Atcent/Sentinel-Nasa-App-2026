@@ -5,7 +5,7 @@
 🇪🇸 [Versión en español](README.es.md)
 
 **NASA Space Apps Challenge 2026** · Challenge: monitoring astronaut health during missions
-**Team:** Sentinel · **Live demo:** https://sentinel-projectt.netlify.app/ · **Demo video:** `[VIDEO URL]`
+**Team:** Sentinel · **Live demo:** https://sentinel-projectt.netlify.app/ · **Demo:** https://docs.google.com/presentation/d/1QW6c57K_g7T_IAXg9_s__zVtZIluKyOU/edit?usp=sharing&ouid=112804907578764469712&rtpof=true&sd=true
 
 ## Authors
 
@@ -134,4 +134,4 @@ The team reviewed the results and is responsible for the final submission.
 
 ## License
 
-`[LICENSE]`
+MIT
