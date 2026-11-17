@@ -5,12 +5,12 @@
 🇬🇧 [English version](README.md)
 
 **NASA Space Apps Challenge 2026** · Reto: monitoreo de la salud de astronautas durante misiones
-**Equipo:** `[NOMBRE DEL EQUIPO]` · **Demo en línea:** `[ENLACE DE LA DEMO]` · **Video:** `[ENLACE DEL VIDEO]`
+**Equipo:** Sentinel · **Demo en línea:** https://sentinel-projectt.netlify.app/ · **Demo:** https://docs.google.com/presentation/d/1QW6c57K_g7T_IAXg9_s__zVtZIluKyOU/edit?usp=sharing&ouid=112804907578764469712&rtpof=true&sd=true
 
 ## Autores
 
-- `[NOMBRE 1]`
-- `[NOMBRE 2]`
+- Sebastian Avalos
+
 
 ## Tabla de contenidos
 
@@ -135,4 +135,4 @@ El equipo revisó los resultados y es responsable de la entrega final.
 
 ## Licencia
 
-`[LICENCIA]`
+Mit
